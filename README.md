@@ -11,8 +11,8 @@ I could improve the usability of this small program, by implementing the followi
 
 1. Search for installation jobs by customer name.
 2. Search for installation jobs by date/s.
-3. Implement and attack a MYSQL database, and store customers, technicians, and installation jobs there.
+3. Implement and attach a MYSQL database, and store customers, technicians, and installation jobs there.
 4. Allow the printing of, or exporting of installations to PDFs or Excel.
-5. Allow the program UI screen to be resized, full screen, and responsive.
-6. Improve the visual ouput of installation jobs, on the screen.
+5. Allow the program UI screen to be resized, made full screen, and responsive for mobile devices.
+6. Improve the readability and visual ouput of installation jobs, on the main screen.
 7. Add form elements, such as date popup/selectors, and address fields such as street/postcode/state.
